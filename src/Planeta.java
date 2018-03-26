@@ -30,4 +30,16 @@ public class Planeta {
                 ", czyZamieszkala=" + czyZamieszkala +
                 '}';
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getDiameter() {
+        return diameter;
+    }
+
+    public boolean isCzyZamieszkala() {
+        return czyZamieszkala;
+    }
 }

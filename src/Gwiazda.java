@@ -25,4 +25,12 @@ public class Gwiazda {
                 ", diameter=" + diameter +
                 '}';
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getDiameter() {
+        return diameter;
+    }
 }
