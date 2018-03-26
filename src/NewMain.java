@@ -12,7 +12,7 @@ public class NewMain {
         Planeta p1=new Planeta("Ziemia",20.3,true);
         Planeta p2=new Planeta("Jowisz",50.4,false);
         Planeta p3=new Planeta("Saturn",23.0,false);
-        Planeta p4=new Planeta("Nowa1",23.0,false);
+        Planeta p4=new Planeta("Astera",23.0,false);
 
         Map<Gwiazda,Planeta> mapa=new HashMap();
 
